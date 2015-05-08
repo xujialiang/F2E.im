@@ -6,4 +6,3 @@ pygments
 python-memcached
 mysql-python
 wtforms
-PIL
